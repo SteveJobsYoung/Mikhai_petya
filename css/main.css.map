@@ -1,0 +1,24 @@
+{
+    "version": 3,
+    "mappings": "AGAA,AAAA,CAAC;AACD,CAAC,AAAA,OAAO;AACR,CAAC,AAAA,QAAQ,CAAC;EACN,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,OAAO;CACtB;;AAED,AAAA,IAAI,CAAC;EACD,SAAS,EAAE,KAAK;EAChB,UAAU,EAAE,UAAU;CACzB",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/base/_fonts.scss",
+        "../sass/base/_var.scss",
+        "../sass/base/_base.scss",
+        "../sass/base/_typografy.scss",
+        "../sass/pages/_home.scss",
+        "../sass/pages/_about_me.scss",
+        "../sass/pages/_portfolio.scss",
+        "../sass/pages/_work_together.scss",
+        "../sass/pages/_contact.scss",
+        "../sass/layout/home/_header.scss",
+        "../sass/layout/home/_home_aboutme.scss",
+        "../sass/layout/home/_home_quote.scss",
+        "../sass/layout/home/_home_portfolio.scss",
+        "../sass/layout/home/_home_work.scss",
+        "../sass/layout/home/_home_footer.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}

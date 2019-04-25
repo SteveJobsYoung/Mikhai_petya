@@ -1,0 +1,26 @@
+// BASE
+@import "base/fonts";
+@import  "base/var";
+@import  "base/base";
+@import  "base/typografy";
+
+// COMPONETS
+
+// PAGES
+@import  "pages/home";
+@import  "pages/about_me";
+@import  "pages/portfolio";
+@import  "pages/work_together";
+@import  "pages/contact";
+
+// LAYOUT
+
+// home
+@import  "layout/home/header";
+@import  "layout/home/home_aboutme";
+@import  "layout/home/home_quote";
+@import  "layout/home/home_portfolio";
+@import  "layout/home/home_work";
+@import  "layout/home/home_footer";
+// end of home
+
